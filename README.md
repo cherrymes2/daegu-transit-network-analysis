@@ -23,3 +23,24 @@ This repository contains research on the impact of metro network reconfiguration
 
 Graduate Researcher
 Daegu Transportation Corporation
+
+## Research Period
+
+2023–2026
+
+## Study Area
+
+Daegu Transportation Network
+
+## Key Findings
+
+* Transfer stations became dominant mobility hubs after network expansion.
+* Passenger flows shifted toward newly connected corridors.
+* Network centrality indicators effectively explained ridership redistribution.
+
+## Future Research
+
+* Daegu Metro Line 4 impact prediction
+* DRT integration analysis
+* Smart Mobility Hub evaluation
+
